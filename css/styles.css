@@ -18,8 +18,17 @@ body {
 	     -o-transform: translateX(-50%);
 	        transform: translateX(-50%);
 }
+.header {
+	background: url("../images/lipsenseBG.svg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 50% 25%;
+	-webkit-background-size: cover;
+	     -o-background-size: cover;
+	        background-size: cover;
+}
 .header-overlay {
-	background: rgba(27, 26, 45, 0.75);
+	background-color: rgba(31, 31, 31, 0.50);
 }
 .logo {
 	padding-bottom: 50px;
@@ -28,16 +37,18 @@ body {
 	padding-left: 100px;
 }
 .header-text h1 {
-	font-size: 35px;
+	font-size: 40px;
 	font-weight: 300;
 	line-height: 45px;
 	padding-top: 30px;
+	color: #D28C8C;
 	text-transform: uppercase;
 }
 .header-text h2 {
-	font-size: 25px;
+	font-size: 30px;
 	font-weight: 300;
 	line-height: 28px;
+	color: #D6B73C;
 }
 .header-btns {
 	margin-top: 90px;
@@ -45,7 +56,7 @@ body {
 	padding-left: 100px;
 }
 .btn-signup {
-	color: #E9135D;
+	color: #D6B73C;
 }
 .btn-signup,
 .btn-signup:focus,
@@ -54,7 +65,7 @@ body {
 	background: transparent;
 	padding: 10px 20px;
 	font-size: 19px;
-	border: 1px solid #BF0416;
+	border: 1px solid #D28C87;
 	-webkit-border-radius: 3px;
 	        border-radius: 3px;
 	-webkit-transition: all 1s;
@@ -64,9 +75,9 @@ body {
 	        transition: all 1s;
 }
 .btn-signup:hover {
-	background: #E9135D;
+	background: #D28C8C;
 	color: #FFF;
 }
-.header-lipsense img {
+.carousel-inner .item img {
 	width: 100%;
 }

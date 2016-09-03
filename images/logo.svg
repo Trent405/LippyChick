@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -19,6 +20,30 @@
    sodipodi:docname="logo.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient6427"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6429" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6421"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6423" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6415"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop6417" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4156">
@@ -58,9 +83,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="121.26392"
-     inkscape:cy="-7.2190615"
+     inkscape:zoom="1.4"
+     inkscape:cx="198.96064"
+     inkscape:cy="96.423629"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,7 +106,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,44 +126,44 @@
            x="362.14285"
            y="387.36221" /></flowRegion><flowPara
          id="flowPara4146" /></flowRoot>    <g
-       id="g4314"
-       transform="matrix(2.0791785,0,0,1.8220201,-158.51804,-82.761449)">
+       id="g6730">
       <text
+         transform="scale(1.0682412,0.93611818)"
          sodipodi:linespacing="125%"
          id="text4136"
-         y="68.948372"
-         x="77.914131"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.14690208px;line-height:125%;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0066;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="45.788952"
+         x="3.2570796"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.94484711px;line-height:125%;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d6b73c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           style="fill:#ff0066;fill-opacity:1"
-           y="68.948372"
-           x="77.914131"
+           style="fill:#d6b73c;fill-opacity:1;"
+           y="45.788952"
+           x="3.2570796"
            id="tspan4138"
            sodipodi:role="line">Stay   Pretty</tspan></text>
       <g
-         style="fill:#000000"
-         transform="matrix(-0.53025696,0.52332559,-0.52332559,-0.53025696,297.43998,50.64299)"
+         style="fill:#000000;fill-opacity:1"
+         transform="matrix(-1.1024989,0.95350974,-1.0880873,-0.96613884,459.91277,9.5110967)"
          id="g4177">
         <g
-           style="fill:#000000;stroke:none"
+           style="fill:#000000;fill-opacity:1;stroke:none"
            transform="matrix(0.1,0,0,-0.1,0,300)"
            id="g4166">
           <path
-             style="fill:#000000"
+             style="fill:#000000;fill-opacity:1"
              inkscape:connector-curvature="0"
              d="m 787,2208 c 5,-7 35,-44 65,-83 63,-79 100,-143 118,-198 13,-42 30,-40 30,4 0,16 5,29 12,29 6,0 153,-141 327,-313 174,-172 407,-402 518,-511 197,-195 203,-201 214,-254 10,-49 20,-63 114,-160 57,-59 107,-104 111,-100 4,5 1,26 -6,48 -10,31 -11,46 -1,66 12,26 24,27 94,7 40,-11 8,28 -99,121 -107,92 -114,96 -158,96 l -47,0 -285,283 c -157,155 -393,388 -525,517 -131,129 -239,240 -239,247 0,6 21,15 48,19 26,4 40,9 32,12 -8,2 -39,15 -68,28 -29,13 -55,24 -59,24 -13,0 -149,89 -167,109 -21,23 -45,30 -29,9 z"
              id="node1"
              class="node" />
         </g>
         <g
-           style="fill:#000000;stroke:none"
+           style="fill:#000000;fill-opacity:1;stroke:none"
            transform="matrix(0.1,0,0,-0.1,0,300)"
            id="g4169" />
       </g>
       <g
          style="fill:#000000"
          id="g4182"
-         transform="matrix(-0.53025696,0.52332559,-0.52332559,-0.53025696,297.43998,109.94592)">
+         transform="matrix(-1.1024989,0.95350974,-1.0880873,-0.96613884,459.91277,117.56223)">
         <g
            id="g4184"
            transform="matrix(0.1,0,0,-0.1,0,300)"
@@ -156,19 +181,20 @@
            style="fill:#000000;stroke:none" />
       </g>
       <text
+         transform="scale(1.0682412,0.93611818)"
          sodipodi:linespacing="125%"
          id="text4226"
-         y="99.483475"
-         x="70.012337"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.11780357px;line-height:125%;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0066;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="105.22116"
+         x="-12.122632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.1027832px;line-height:125%;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d6b73c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           y="99.483475"
-           x="70.012337"
+           y="105.22116"
+           x="-12.122632"
            id="tspan4228"
            sodipodi:role="line">The Lippy Chick</tspan></text>
       <g
          style="fill:#000000;stroke:none"
-         transform="matrix(0.00534913,0,0,-0.00534913,46.728471,97.988041)"
+         transform="matrix(0.0111218,0,0,-0.00974622,-61.361208,95.774731)"
          id="g4254">
         <path
            style="fill:#000000"
