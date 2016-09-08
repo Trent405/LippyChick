@@ -34,7 +34,6 @@ body {
 	padding-bottom: 50px;
 }
 .header-text {
-	padding-left: 100px;
 }
 .header-text h1 {
 	font-size: 40px;
@@ -51,10 +50,24 @@ body {
 	line-height: 28px;
 	color: #D6B73C;
 }
+.signup-text h1 {
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 45px;
+	padding-top: 30px;
+	color: #D28C8C;
+	text-transform: uppercase;
+}
+.signup-text h2 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 35px;
+	font-weight: 300;
+	line-height: 28px;
+	color: #D6B73C;
+}
 .header-btns {
-	margin-top: 90px;
+	margin-top: 70px;
 	margin-bottom: 270px;
-	padding-left: 100px;
 }
 .btn-signup {
 	color: #D6B73C;
